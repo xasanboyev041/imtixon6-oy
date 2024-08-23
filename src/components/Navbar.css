@@ -1,0 +1,97 @@
+/* Navbar uchun stil berishni boshladim  */
+
+.navbar-ul {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 6px;
+}
+.wrapper-li-one {
+  width: 450px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.wrapper-login-nav {
+  width: 105px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 12px;
+  text-align: left;
+}
+.wrapper-nav123 {
+  width: 300px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 10px;
+}
+.wrapper-li-one {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.nav1-p {
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 12px;
+  text-align: left;
+  color: rgba(0, 0, 0, 1);
+}
+.wrapper-li-two {
+  width: 320px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+/* Navbar uchun stil tugadi  */
+
+/* Header uchun stil boshlandi  */
+
+.shop-by {
+  font-size: 13px;
+  font-weight: 400;
+  line-height: 14px;
+  text-align: left;
+  color: rgba(85, 85, 85, 1);
+  margin-left: 10px;
+}
+.advanse {
+  font-size: 10px;
+  font-weight: 400;
+  line-height: 40px;
+  text-align: left;
+  color: rgba(118, 118, 118, 1);
+  margin-left: 10px;
+}
+.search-header {
+  width: 772px;
+  height: 42px;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 14px;
+  color: rgba(255, 255, 255, 1);
+  padding-left: 10px;
+}
+.header-button {
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 14px;
+  text-align: center;
+  color: #fff;
+  width: Hug (169px) px;
+  height: Hug (42px) px;
+  left: 767.03px;
+  padding: 14px 62.19px 14px 61.81px;
+  background-color: rgba(54, 101, 243, 1);
+  border: none;
+}
+.wrapper-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 13px;
+}
